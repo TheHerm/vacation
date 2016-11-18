@@ -1,0 +1,14 @@
+body {
+  box-sizing: border-box; }
+
+*, *::before, *::after {
+  box-sizing: inherit;
+  position: relative; }
+
+.mainNav {
+  font-size: 1.3em;
+  color: #f77d2c; }
+
+.logocontainer {
+  font-size: 1.5em;
+  margin-top: .4em; }
